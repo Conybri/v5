@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "7f36",
+      "fullName": "Eevi Lehtonen",
+      "email": "eevi.lehtonen@example.com",
+      "phone": "08-019-077",
+      "profileImage": "https://randomuser.me/api/portraits/women/63.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": "4f57",
+      "fullName": "Rasmus Jarvela",
+      "email": "rasmus.jarvela@example.com",
+      "phone": "02-512-386",
+      "profileImage": "https://randomuser.me/api/portraits/men/99.jpg",
+      "isFavorite": true
+    },
+    {
+      "id": "cc1f",
+      "fullName": "Isabelle Jones",
+      "email": "isabelle.jones@example.com",
+      "phone": "(949)-655-4701",
+      "profileImage": "https://randomuser.me/api/portraits/women/88.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": "7151",
+      "fullName": "Storm Petersen",
+      "email": "storm.petersen@example.com",
+      "phone": "91519819",
+      "profileImage": "https://randomuser.me/api/portraits/men/64.jpg",
+      "isFavorite": false
+    },
+    {
+      "id": "43f5",
+      "fullName": "Rachel Edwards",
+      "email": "rachel.edwards@example.com",
+      "phone": "011-326-2053",
+      "profileImage": "https://randomuser.me/api/portraits/women/24.jpg",
+      "isFavorite": true
+    }
+  ]
+}
